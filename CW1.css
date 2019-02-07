@@ -1,0 +1,18 @@
+/*classes for colors*/
+.red1{
+    background: red;
+}
+
+.blue1{
+    background: blue;
+}
+
+.green1{
+    background: green;
+    color: white;
+}
+
+.orange1{
+    background: orange;
+    color: pink;
+}

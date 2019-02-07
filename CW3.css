@@ -1,0 +1,10 @@
+/*background class to call*/
+.grayback{
+    background: gray;
+}
+/*borders*/
+td{
+    border: 1px solid black;
+    margin: 5%;
+    padding: 10px;
+}
